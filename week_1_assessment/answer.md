@@ -26,3 +26,4 @@ irb(main):007:0> cars= [car1,car2]
 => [{:wheels=>4, :Max=>"2ookm/hour", :coloe=>"whitw"}, {:wheels=>4, :Max=>...
 irb(main):008:0> cars[1]
 # thank you emmma for your support this interview was very helpful
+# soon i will give answers of yours other quetions
